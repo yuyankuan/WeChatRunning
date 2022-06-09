@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/logs/logs",
+    "pages/run/run",
+    "pages/animation/animation"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置信息将用于展示最终的路线图使用" 
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "KK跑",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
