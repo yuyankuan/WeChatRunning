@@ -31,7 +31,7 @@
 #### （这里的地图调用的是微信小程序开发自带的腾讯公开地图API）
 ![位置授权](screenshot\huoquweizhi.jpg)
 ![粗略定位](screenshot\dingwei2.jpg)
-![精细定位](screenshot\dingwei1.jpg)
+![精细定位](https://github.com/yuyankuan/WeChatRunning/blob/main/screenshot/dingwei1.jpg)
 ***
 ### 返回之后点击“开始跑步”即可开始记录您的“里程数（单位km）”、“所用时间”，以及地图上的“路径数据可视化”
 
