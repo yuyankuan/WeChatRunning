@@ -1,0 +1,26 @@
+
+
+
+<view clas="mainView">
+    <!--标题-->
+
+    <view class="header">
+        <image class="icon" src="/resources/joyrun.png" mode="aspectFill" style="height: 250px; width: 250px; " />
+        <view class="bigTitle">KK跑--痛快淋漓的跑步叭</view>
+        <view class="desc">Go running - Noah Yu</view>
+    </view>
+    
+    
+    
+    <view class="body">
+        <view class="widget">
+            <block wx:for="{{pageNames}}">
+                <view class="widgets__item">
+                    <navigator url="{{item.id}}/{{item.id}}">{{item.name}}</navigator>
+                </view>
+            </block>
+        </view>
+    </view>
+
+</view>
+    
